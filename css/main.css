@@ -1,0 +1,44 @@
+h2,h3{
+    color:navy;
+    text-align: center;
+}
+h1{
+    color: navy;
+    font-style: inherit;
+    font-size: 60px; 
+    position: absolute; left: 20%; right: 20%; bottom: 100%; top: 0%;
+    background-color: aqua;
+   
+}
+h2{
+    font-size: 40px;
+    text-align: center;
+    color: white;
+    background-color: navy;
+    font: large;
+}
+#booking, #aboutUs, #contactUs, p {
+    color:blue;
+    font-size: 18px;
+}
+h3{
+    text-decoration:underline;
+    color: white;
+    background-color: navy;
+}
+#title{
+    text-align: center;
+    background-color: aqua;
+    
+}
+#nav{
+    background-color: gainsboro;
+}
+#comments{
+    background-color: whitesmoke;
+    text-align: center;
+}
+#title {
+    color: white;
+    
+}
