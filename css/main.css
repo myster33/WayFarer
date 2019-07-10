@@ -23,22 +23,100 @@ h2{
 }
 h3{
     text-decoration:underline;
-    color: white;
-    background-color: navy;
+    color: navy;
+    
 }
 #title{
     text-align: center;
-    background-color: aqua;
+    background-color: gainsboro;
     
 }
 #nav{
-    background-color: gainsboro;
+    background-color: #f1f1c1;
+    display: block;
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 18px;
 }
 #comments{
     background-color: whitesmoke;
     text-align: center;
 }
 #title {
+    color: white;  
+}
+h4{
+    font-size: 30px;
+    text-align: center;
+    color: navy;
+}
+#triptables{
+    border: 1px solid navy;
+    border-collapse: collapse;
+    padding: 5px;
+    text-align: left;
+    background-color: #f1f1c1;
+}
+#createAccount {
+    font-size: 16px;
+    letter-spacing: .1px;
+    line-height: 2.0;
+    
+    padding-bottom: 10px;
+    padding-top: 8px;
+    padding-right: 40%;
+    object-position: 20%;
+    background-color: #f1f1c1;
+    text-align: right;
+    
+}
+.submit {
+    background-color:navy;
+    border: none;
     color: white;
+    padding: 5px 12px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    
+}
+.button {
+    background-color:navy;
+    border: none;
+    color: white;
+    padding: 5px 12px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+}
+#login {
+    font-size: 18px;
+    letter-spacing: .1px;
+    line-height: 2.0;
+    margin: 1;
+    padding-bottom: 10px;
+    padding-top: 12px;
+    object-position: 20%;
+    background-color: #f1f1c1;
+    text-align: center;
+    
+}
+
+#wel {
+    padding-top: -10px;
+}
+#company{
+    padding-left: 3%;
+    padding-right: 3%;
+    padding-bottom: 3%;
+    color: blue;
+    background-color: #f1f1c1;
+    font-size: 70px;
+    position: absolute; left: 30%;
+    border: 1px solid navy;
+    
     
 }
