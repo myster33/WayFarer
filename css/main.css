@@ -20,6 +20,7 @@ h2{
 #booking, #aboutUs, #contactUs, p {
     color:blue;
     font-size: 18px;
+    text-align: center;
 }
 h3{
     text-decoration:underline;
