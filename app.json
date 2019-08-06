@@ -1,0 +1,20 @@
+{
+  "addons": [
+
+  ],
+  "buildpacks": [
+    {
+      "url": "https://app-wayfarer.com/api/v1/"
+    }
+  ],
+  "env": {
+  },
+  "formation": {
+  },
+  "name": "WayFarer",
+  "scripts": {
+    "postdeploy": "script/main.js",
+    "pr-predestroy": "script/main.js"
+  },
+  "stack": "heroku-18"
+}
