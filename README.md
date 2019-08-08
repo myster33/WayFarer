@@ -4,12 +4,12 @@ WayFarer is a public bus transportation booking service.
 The Application contain of a User / client and Admin.
 
             The client User
-User can Sign Up for an Account.
-User can Sign into his / her Account.
-User can View Available Trips.
-User can Boot A Seat in Avaible Trips.
-User can Cancel a Trip.
-User can Confirm A trip booked.
+User can Sign Up for an Account.<br>
+User can Sign into his / her Account.<br>
+User can View Available Trips.<br>
+User can Boot A Seat in Avaible Trips.<br>
+User can Cancel a Trip.<br>
+User can Confirm A trip booked.<br>
 
 
             The Admin
