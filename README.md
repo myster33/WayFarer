@@ -13,8 +13,8 @@ User can Confirm A trip booked.<br>
 
 
             The Admin
-Admin can Crete a new Trip.
-Admin can cancel a Trip.
-Admin can View all Bookings of customers.
-Admin can View all lists of Customers on a Trip.
-Admin can view all Achieved Trips.
+Admin can Crete a new Trip.<br>
+Admin can cancel a Trip.<br>
+Admin can View all Bookings of customers.<br>
+Admin can View all lists of Customers on a Trip.<br>
+Admin can view all Achieved Trips.<br>
